@@ -1,5 +1,5 @@
 """
-1. Cadastro de produtos com preço e total da compra
+6. Cadastro de produtos com preço e total da compra
 
 Objetivo: praticar listas de dicionários, laços e funções com retorno.
 Conceitos: listas, dicionários, funções puras, formatação de strings.
